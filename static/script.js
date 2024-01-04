@@ -1,5 +1,5 @@
 window.addEventListener('load', function () {
-        var text = "Heyyy! ✨ I miss kring ur 🐣🐳. 🥺 There is something in ur mind and it is okay - u don't want to talk (bs agr ye msg padh lena to '👍' react kr dena). I know u bht strong hoing and can overcome all of this 🌟 but in case kbhi bhi u need someone to talk to, u are not alone hoing I am there for u. 🤗 ㅤㅤㅤSending u a huge virtual (づ๑•ᴗ•๑)づ 😊🌺";
+        var text = "Heyyy! ✨ I miss kring ur 🐣🐳. 🥺 If there is something in ur mind, it is okay - u don't wanna talk (bs agr ye msg padh lena to '👍' react kr dena). I know u bht strong hoing and can overcome all of this but in case u need someone to talk to, u not alone hoing I am there for u. 🤗 ㅤㅤㅤSending u a huge virtual (づ๑•ᴗ•๑)づ [green pattiyo wala gulabi fool]";
 
         var i = 0;
         console.log(text)
